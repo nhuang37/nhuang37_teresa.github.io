@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I am Teresa Huang"
+title: "Hello, I am Teresa"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
